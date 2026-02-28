@@ -1,118 +1,118 @@
 {
-    "courses": [
-        {
-            "id": "luat-hinh-su",
-            "title": "Chuyên Đề Luật Hình Sự",
-            "desc": "Nghiên cứu cấu trúc tội phạm và các khía cạnh pháp lý trong hệ thống tư pháp hiện đại.",
-            "tag": "Luật Học",
-            "image": "",
-            "price": "3,990,000",
-            "benefits": [
-                "Hệ thống hóa kiến thức về tội phạm học.",
-                "Phân tích thực tiễn áp dụng pháp luật.",
-                "Kỹ năng xây dựng lập luận pháp lý."
-            ],
-            "target": "Sinh viên luật và nhân sự pháp chế doanh nghiệp.",
-            "syllabus": [
-                "Cấu trúc tội phạm",
-                "Hệ thống pháp luật hình sự",
-                "Thực tiễn xét xử",
-                "Phòng chống tội phạm"
-            ]
-        },
-        {
-            "id": "tam-ly-toi-pham",
-            "title": "Tâm Lý Học Tội Phạm",
-            "desc": "Khám phá động cơ và hành vi con người thông qua lăng kính khoa học tâm lý.",
-            "tag": "Tâm Lý",
-            "image": "",
-            "price": "4,500,000",
-            "benefits": [
-                "Hiểu về mô thức hành vi tội phạm.",
-                "Cơ sở khoa học của tâm lý học hành vi.",
-                "Phân tích hồ sơ tâm lý thực tế."
-            ],
-            "target": "Người đam mê tâm lý học và nghiên cứu khoa học hành vi.",
-            "syllabus": [
-                "Tâm lý hành vi",
-                "Phân tích hồ sơ",
-                "Tội phạm học",
-                "Ứng dụng thực tiễn"
-            ]
-        },
-        {
-            "id": "ky-thuat-hinh-su",
-            "title": "Khoa Học Pháp Y",
-            "desc": "Kỹ thuật thu thập và phân tích chứng cứ khách quan trong điều tra.",
-            "tag": "Khoa Học",
-            "image": "",
-            "price": "4,990,000",
-            "benefits": [
-                "Quy trình xử lý vật chứng chuẩn mực.",
-                "Ứng dụng công nghệ trong giám định.",
-                "Phân tích dữ liệu số trong pháp y."
-            ],
-            "target": "Điều tra viên và chuyên viên kỹ thuật hình sự.",
-            "syllabus": [
-                "Giám định pháp y",
-                "Thu thập chứng cứ",
-                "Phân tích DNA",
-                "Kỹ thuật số"
-            ]
-        },
-        {
-            "id": "tranh-tung",
-            "title": "Kỹ Năng Tranh Tụng",
-            "desc": "Phát triển tư duy phản biện và khả năng trình bày chuyên nghiệp.",
-            "tag": "Thực Hành",
-            "image": "",
-            "price": "5,500,000",
-            "benefits": [
-                "Kỹ thuật đặt câu hỏi và phản biện.",
-                "Quản lý cảm xúc trong tranh luận.",
-                "Tư duy logic trong trình bày."
-            ],
-            "target": "Những người cần cải thiện kỹ năng thuyết phục và tư duy logic.",
-            "syllabus": [
-                "Tư duy tranh luận",
-                "Kỹ thuật phản biện",
-                "Tâm lý học đám đông",
-                "Thuyết trình chuyên sâu"
-            ]
-        },
-        {
-            "id": "luat-dan-su-co-ban",
-            "title": "Pháp Luật Dân Sự Cơ Bản",
-            "desc": "Tìm hiểu về quyền sở hữu, hợp đồng và các quan hệ dân sự trong đời sống hàng ngày.",
-            "tag": "Luật Học",
-            "image": "",
-            "price": "3,990,000",
-            "benefits": [
-                "Kiến thức về quyền và nghĩa vụ dân sự.",
-                "Cách xác lập hợp đồng an toàn.",
-                "Giải quyết tranh chấp dân sự cơ bản."
-            ],
-            "target": "Mọi cá nhân muốn hiểu rõ quyền lợi của mình trong các giao dịch dân sự.",
-            "syllabus": [
-                "Quyền nhân thân",
-                "Hợp đồng dân sự",
-                "Thừa kế",
-                "Bồi thường thiệt hại"
-            ]
-        }
-    ],
-    "faq": [
-        {
-            "q": "Hình thức nhận bài giảng như thế nào?",
-            "a": "Admin sẽ mời email của bạn vào Google Drive chứa đầy đủ video và tài liệu."
-        },
-        {
-            "q": "Bài giảng có vietsub không?",
-            "a": "Tất cả bài giảng từ nguồn nước ngoài đều được biên dịch và lồng ghép vietsub chuẩn chỉnh."
-        },
-        {
-            "q": "Có hỗ trợ chuyên môn sau khi học không?",
-            "a": "Bạn có thể nhắn tin cho chúng tôi bất cứ lúc nào để trao đổi về các vấn đề chuyên môn."
-        }
-    ]
+  "courses": [
+    {
+      "id": "luat-hinh-su",
+      "title": "Chuyên Đề Luật Hình Sự",
+      "desc": "Nghiên cứu cấu trúc tội phạm và các khía cạnh pháp lý trong hệ thống tư pháp hiện đại.",
+      "tag": "Luật Học",
+      "price": "3,990,500",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.Z-HMLncYFdSElLtZ2tQJOQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "benefits": [
+        "Hệ thống hóa kiến thức về tội phạm học.",
+        "Phân tích thực tiễn áp dụng pháp luật.",
+        "Kỹ năng xây dựng lập luận pháp lý."
+      ],
+      "syllabus": [
+        "Cấu trúc tội phạm",
+        "Hệ thống pháp luật hình sự",
+        "Thực tiễn xét xử",
+        "Phòng chống tội phạm"
+      ],
+      "target": "Sinh viên luật và nhân sự pháp chế doanh nghiệp."
+    },
+    {
+      "id": "tam-ly-toi-pham",
+      "title": "Tâm Lý Học Tội Phạm",
+      "desc": "Khám phá động cơ và hành vi con người thông qua lăng kính khoa học tâm lý.",
+      "tag": "Tâm Lý",
+      "image": "",
+      "price": "4,500,000",
+      "benefits": [
+        "Hiểu về mô thức hành vi tội phạm.",
+        "Cơ sở khoa học của tâm lý học hành vi.",
+        "Phân tích hồ sơ tâm lý thực tế."
+      ],
+      "target": "Người đam mê tâm lý học và nghiên cứu khoa học hành vi.",
+      "syllabus": [
+        "Tâm lý hành vi",
+        "Phân tích hồ sơ",
+        "Tội phạm học",
+        "Ứng dụng thực tiễn"
+      ]
+    },
+    {
+      "id": "ky-thuat-hinh-su",
+      "title": "Khoa Học Pháp Y",
+      "desc": "Kỹ thuật thu thập và phân tích chứng cứ khách quan trong điều tra.",
+      "tag": "Khoa Học",
+      "image": "",
+      "price": "4,990,000",
+      "benefits": [
+        "Quy trình xử lý vật chứng chuẩn mực.",
+        "Ứng dụng công nghệ trong giám định.",
+        "Phân tích dữ liệu số trong pháp y."
+      ],
+      "target": "Điều tra viên và chuyên viên kỹ thuật hình sự.",
+      "syllabus": [
+        "Giám định pháp y",
+        "Thu thập chứng cứ",
+        "Phân tích DNA",
+        "Kỹ thuật số"
+      ]
+    },
+    {
+      "id": "tranh-tung",
+      "title": "Kỹ Năng Tranh Tụng",
+      "desc": "Phát triển tư duy phản biện và khả năng trình bày chuyên nghiệp.",
+      "tag": "Thực Hành",
+      "image": "",
+      "price": "5,500,000",
+      "benefits": [
+        "Kỹ thuật đặt câu hỏi và phản biện.",
+        "Quản lý cảm xúc trong tranh luận.",
+        "Tư duy logic trong trình bày."
+      ],
+      "target": "Những người cần cải thiện kỹ năng thuyết phục và tư duy logic.",
+      "syllabus": [
+        "Tư duy tranh luận",
+        "Kỹ thuật phản biện",
+        "Tâm lý học đám đông",
+        "Thuyết trình chuyên sâu"
+      ]
+    },
+    {
+      "id": "luat-dan-su-co-ban",
+      "title": "Pháp Luật Dân Sự Cơ Bản",
+      "desc": "Tìm hiểu về quyền sở hữu, hợp đồng và các quan hệ dân sự trong đời sống hàng ngày.",
+      "tag": "Luật Học",
+      "image": "",
+      "price": "3,990,000",
+      "benefits": [
+        "Kiến thức về quyền và nghĩa vụ dân sự.",
+        "Cách xác lập hợp đồng an toàn.",
+        "Giải quyết tranh chấp dân sự cơ bản."
+      ],
+      "target": "Mọi cá nhân muốn hiểu rõ quyền lợi của mình trong các giao dịch dân sự.",
+      "syllabus": [
+        "Quyền nhân thân",
+        "Hợp đồng dân sự",
+        "Thừa kế",
+        "Bồi thường thiệt hại"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Hình thức nhận bài giảng như thế nào?",
+      "a": "Admin sẽ mời email của bạn vào Google Drive chứa đầy đủ video và tài liệu."
+    },
+    {
+      "q": "Bài giảng có vietsub không?",
+      "a": "Tất cả bài giảng từ nguồn nước ngoài đều được biên dịch và lồng ghép vietsub chuẩn chỉnh."
+    },
+    {
+      "q": "Có hỗ trợ chuyên môn sau khi học không?",
+      "a": "Bạn có thể nhắn tin cho chúng tôi bất cứ lúc nào để trao đổi về các vấn đề chuyên môn."
+    }
+  ]
 }
