@@ -39,66 +39,6 @@
         "Tội phạm học",
         "Ứng dụng thực tiễn"
       ]
-    },
-    {
-      "id": "ky-thuat-hinh-su",
-      "title": "Khoa Học Pháp Y",
-      "desc": "Kỹ thuật thu thập và phân tích chứng cứ khách quan trong điều tra.",
-      "tag": "Khoa Học",
-      "image": "",
-      "price": "4,990,000",
-      "benefits": [
-        "Quy trình xử lý vật chứng chuẩn mực.",
-        "Ứng dụng công nghệ trong giám định.",
-        "Phân tích dữ liệu số trong pháp y."
-      ],
-      "target": "Điều tra viên và chuyên viên kỹ thuật hình sự.",
-      "syllabus": [
-        "Giám định pháp y",
-        "Thu thập chứng cứ",
-        "Phân tích DNA",
-        "Kỹ thuật số"
-      ]
-    },
-    {
-      "id": "tranh-tung",
-      "title": "Kỹ Năng Tranh Tụng",
-      "desc": "Phát triển tư duy phản biện và khả năng trình bày chuyên nghiệp.",
-      "tag": "Thực Hành",
-      "image": "",
-      "price": "5,500,000",
-      "benefits": [
-        "Kỹ thuật đặt câu hỏi và phản biện.",
-        "Quản lý cảm xúc trong tranh luận.",
-        "Tư duy logic trong trình bày."
-      ],
-      "target": "Những người cần cải thiện kỹ năng thuyết phục và tư duy logic.",
-      "syllabus": [
-        "Tư duy tranh luận",
-        "Kỹ thuật phản biện",
-        "Tâm lý học đám đông",
-        "Thuyết trình chuyên sâu"
-      ]
-    },
-    {
-      "id": "luat-dan-su-co-ban",
-      "title": "Pháp Luật Dân Sự Cơ Bản",
-      "desc": "Tìm hiểu về quyền sở hữu, hợp đồng và các quan hệ dân sự trong đời sống hàng ngày.",
-      "tag": "Luật Học",
-      "image": "",
-      "price": "3,990,000",
-      "benefits": [
-        "Kiến thức về quyền và nghĩa vụ dân sự.",
-        "Cách xác lập hợp đồng an toàn.",
-        "Giải quyết tranh chấp dân sự cơ bản."
-      ],
-      "target": "Mọi cá nhân muốn hiểu rõ quyền lợi của mình trong các giao dịch dân sự.",
-      "syllabus": [
-        "Quyền nhân thân",
-        "Hợp đồng dân sự",
-        "Thừa kế",
-        "Bồi thường thiệt hại"
-      ]
     }
   ],
   "faq": [
