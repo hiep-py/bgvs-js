@@ -15,45 +15,41 @@
             "target": "Sinh viên luật và nhân sự pháp chế doanh nghiệp.",
             "syllabus": [
                 {
-                    "title": "Mô đun 01: Nền tảng cấu trúc tội phạm",
+                    "title": "Chương 1: Cơ sở lý luận về cấu trúc tội phạm",
                     "children": [
                         {
-                            "title": "Chương 1: Cơ sở lý luận",
+                            "title": "Chuyên đề 1: Nhận diện cấu trúc",
                             "children": [
-                                {
-                                    "title": "Chuyên đề 1: Nhận diện cấu trúc",
-                                    "children": [
-                                        "Bài 1: Khái niệm cấu trúc tội phạm",
-                                        "Bài 2: Tính nguy hiểm cho xã hội"
-                                    ]
-                                },
-                                {
-                                    "title": "Chuyên đề 2: Tính pháp lý",
-                                    "children": [
-                                        "Bài 1: Quy định trong luật hiện hành"
-                                    ]
-                                }
+                                "Bài 1: Khái niệm cấu trúc tội phạm",
+                                "Bài 2: Tính nguy hiểm cho xã hội",
+                                "Bài 3: Đặc điểm của hành vi phạm tội"
                             ]
                         },
                         {
-                            "title": "Chương 2: Phân loại đối tượng",
+                            "title": "Chuyên đề 2: Tính pháp lý của tội phạm",
                             "children": [
-                                "Bài 1: Đối tượng tác động",
-                                "Bài 2: Các dấu hiệu đặc trưng"
+                                "Bài 1: Quy định trong luật hiện hành",
+                                "Bài 2: So sánh pháp luật quốc tế"
                             ]
                         }
                     ]
                 },
                 {
-                    "title": "Mô đun 02: Hệ thống pháp luật hình sự",
+                    "title": "Chương 2: Phân loại đối tượng và dấu hiệu đặc trưng",
                     "children": [
-                        {
-                            "title": "Chương 1: Lịch sử và hình thành"
-                        }
+                        "Bài 1: Đối tượng tác động của tội phạm",
+                        "Bài 2: Các dấu hiệu chủ quan và khách quan",
+                        "Bài 3: Mặt chủ thể của tội phạm"
                     ]
                 },
-                "Mô đun 03: Thực tiễn xét xử",
-                "Mô đun 04: Các biện pháp và kỹ thuật phòng chống tội phạm"
+                {
+                    "title": "Chương 3: Hệ thống pháp luật hình sự Việt Nam",
+                    "children": [
+                        "Bài 1: Lịch sử hình thành",
+                        "Bài 2: Phân tích Bộ luật Hình sự 2015 (sửa đổi 2017)"
+                    ]
+                },
+                "Chương 4: Thực tiễn xét xử và án lệ"
             ]
         },
         {
@@ -70,10 +66,29 @@
             ],
             "target": "Người đam mê tâm lý học và nghiên cứu khoa học hành vi.",
             "syllabus": [
-                "Tâm lý hành vi",
-                "Phân tích hồ sơ",
-                "Tội phạm học",
-                "Ứng dụng thực tiễn"
+                {
+                    "title": "Chương 1: Nền tảng tâm lý học hành vi",
+                    "children": [
+                        "Bài 1: Các trường phái tâm lý học",
+                        "Bài 2: Lý thuyết hành vi và nhận thức",
+                        "Bài 3: Cơ chế tâm lý dẫn đến hành vi lệch chuẩn"
+                    ]
+                },
+                {
+                    "title": "Chương 2: Phân tích hồ sơ tâm lý",
+                    "children": [
+                        "Bài 1: Phương pháp lập hồ sơ tội phạm (Criminal Profiling)",
+                        "Bài 2: Nghiên cứu trường hợp thực tế"
+                    ]
+                },
+                {
+                    "title": "Chương 3: Tâm lý tội phạm theo nhóm",
+                    "children": [
+                        "Bài 1: Tâm lý đám đông và hành vi bầy đàn",
+                        "Bài 2: Tội phạm có tổ chức"
+                    ]
+                },
+                "Chương 4: Ứng dụng thực tiễn trong điều tra"
             ]
         },
         {
@@ -90,10 +105,10 @@
             ],
             "target": "Điều tra viên và chuyên viên kỹ thuật hình sự.",
             "syllabus": [
-                "Giám định pháp y",
-                "Thu thập chứng cứ",
-                "Phân tích DNA",
-                "Kỹ thuật số"
+                "Chương 1: Tổng quan về giám định pháp y",
+                "Chương 2: Kỹ thuật thu thập và bảo quản chứng cứ",
+                "Chương 3: Phân tích DNA và sinh trắc học",
+                "Chương 4: Pháp y kỹ thuật số và điều tra mạng"
             ]
         },
         {
@@ -110,10 +125,23 @@
             ],
             "target": "Những người cần cải thiện kỹ năng thuyết phục và tư duy logic.",
             "syllabus": [
-                "Tư duy tranh luận",
-                "Kỹ thuật phản biện",
-                "Tâm lý học đám đông",
-                "Thuyết trình chuyên sâu"
+                {
+                    "title": "Chương 1: Tư duy tranh luận pháp lý",
+                    "children": [
+                        "Bài 1: Nguyên tắc logic hình thức",
+                        "Bài 2: Xây dựng luận điểm và phản biện",
+                        "Bài 3: Nhận diện ngụy biện (Fallacy)"
+                    ]
+                },
+                {
+                    "title": "Chương 2: Kỹ thuật đặt câu hỏi",
+                    "children": [
+                        "Bài 1: Câu hỏi mở và câu hỏi dẫn dắt",
+                        "Bài 2: Kỹ thuật thẩm vấn chéo (Cross-examination)"
+                    ]
+                },
+                "Chương 3: Tâm lý học đám đông và thuyết phục",
+                "Chương 4: Thuyết trình và trình bày chuyên sâu"
             ]
         },
         {
@@ -130,10 +158,10 @@
             ],
             "target": "Mọi cá nhân muốn hiểu rõ quyền lợi của mình trong các giao dịch dân sự.",
             "syllabus": [
-                "Quyền nhân thân",
-                "Hợp đồng dân sự",
-                "Thừa kế",
-                "Bồi thường thiệt hại"
+                "Chương 1: Quyền nhân thân và quyền tài sản",
+                "Chương 2: Hợp đồng dân sự — Xác lập và hiệu lực",
+                "Chương 3: Pháp luật về thừa kế",
+                "Chương 4: Trách nhiệm bồi thường thiệt hại ngoài hợp đồng"
             ]
         }
     ],
