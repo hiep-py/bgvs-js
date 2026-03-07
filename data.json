@@ -5,15 +5,15 @@
             "title": "18 Chuyên Đề Khoa Học Kỹ Thuật Hình Sự",
             "desc": "Trường Đại học Cảnh sát Điều tra Hình sự Trung Quốc (Criminal Investigation Police University of China)",
             "tag": "Khoa Học Hình Sự",
-            "image": "",
-            "price": "3,990,000",
+            "image": "https://res.cloudinary.com/ds5lajume/image/upload/v1772870144/unnamed_1772870143.jpg",
+            "price": "499,000",
             "benefits": [
                 "Hệ thống hóa kiến thức về khoa học kỹ thuật hình sự.",
                 "Nắm vững kỹ thuật giám định dấu vết, tài liệu, hình ảnh và pháp y.",
                 "Phân tích thực tiễn từ các vụ án thực tế.",
                 "Kỹ năng thu thập và giám định vật chứng chuyên nghiệp."
             ],
-            "target": "Sinh viên ngành điều tra hình sự, cán bộ pháp y, nhân sự kỹ thuật hình sự và những ai quan tâm đến khoa học hình sự.",
+            "target": "Chương trình \"18 Chuyên đề Khoa học Kỹ thuật Hình sự\" do các Phó Giáo sư tại Đại học Cảnh sát Điều tra Hình sự Trung Quốc giảng dạy, gồm 73 video bài giảng trực quan (truy cập vĩnh viễn).\n\nNội dung bao quát 5 mô-đun chính: Giám định dấu vết hình sự, Giám định tài liệu và bút tích, Kỹ thuật hình ảnh và âm thanh, Hóa pháp lý và vi vật chứng, Pháp y học.\n\nChương trình trang bị nền tảng kiến thức vững chắc từ lý luận cơ bản đến kỹ năng phân tích vật chứng toàn diện — phù hợp với sinh viên ngành điều tra hình sự, cán bộ pháp y, nhân sự kỹ thuật hình sự và những ai quan tâm đến khoa học hình sự.",
             "syllabus": [
                 {
                     "title": "Chuyên đề 1: Lý luận cơ bản về Khoa học Kỹ thuật Hình sự",
@@ -175,6 +175,186 @@
                         "[Video] 18.1 Đột tử — Cái chết bất ngờ ngoài ý muốn",
                         "[Video] 18.2 Suy đoán thời gian tử vong",
                         "[Video] 18.3 Suy đoán vật gây thương tích"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tam-ly-toi-pham",
+            "title": "Tâm Lý Học Tội Phạm",
+            "desc": "Đại học Kinh tế và Luật Trung Nam (Zhongnan University of Economics and Law)",
+            "tag": "Tâm Lý Học",
+            "image": "https://res.cloudinary.com/ds5lajume/image/upload/v1772869893/unnamed_1772869892.jpg",
+            "price": "249,000",
+            "benefits": [
+                "Tiếp cận tội phạm học từ góc nhìn tâm lý học hiện đại.",
+                "Nắm vững các lý thuyết quy nguyên hành vi và nhân cách tội phạm.",
+                "Phân tích cơ chế kiểm soát xã hội và học tập hành vi lệch chuẩn.",
+                "24 video bài giảng có Vietsub, truy cập vĩnh viễn."
+            ],
+            "target": "Chương trình \"Tâm lý học tội phạm\" của Đại học Kinh tế và Luật Trung Nam (Zhongnan University of Economics and Law) được giảng dạy trực quan qua 24 video bài giảng (13–16 phút/video, có Vietsub), gồm 5 mô-đun chính:\n\nKhái luận và Lịch sử phát triển — Tiếp cận tội phạm học dưới góc nhìn tâm lý và tiến trình phát triển từ triết học đến khoa học.\nCác lý thuyết quy nguyên hành vi — Tổng quan về phân tâm học, tâm lý học hành vi, nhận thức và đặc điểm nhân cách.\nLý thuyết học tập — Đi sâu vào học tập xã hội, lý thuyết tiếp xúc khác biệt và kỹ thuật trung hòa hành vi vượt chuẩn.\nKiểm soát xã hội — Phân tích cơ chế tự kiểm soát và sự chuyển biến trong cách nhìn nhận nguyên nhân tội phạm.\nNhân cách tội phạm — Nghiên cứu về lý thuyết nhân cách và các khía cạnh bệnh lý tâm thần.\n\nHình thức học: Truy cập qua Google Drive, không giới hạn thời gian (vĩnh viễn).",
+            "syllabus": [
+                {
+                    "title": "Chương 1: Khái luận",
+                    "children": [
+                        "[Vietsub] 1.1 Tội phạm học dưới góc nhìn tâm lý học",
+                        "[Vietsub] 1.2 Chức năng và giá trị của khoa học",
+                        "[Vietsub] 1.3 Đặc trưng và tiêu chuẩn của khoa học (Phần 1)",
+                        "[Vietsub] 1.4 Đặc trưng và tiêu chuẩn của khoa học (Phần 2)",
+                        "[Vietsub] 1.5 Cơ chế vận hành của phương pháp nghiên cứu khoa học"
+                    ]
+                },
+                {
+                    "title": "Chương 2: Tiến trình phát triển của tội phạm học từ triết học đến khoa học",
+                    "children": [
+                        "[Vietsub] 2.1 Tội phạm học cổ điển",
+                        "[Vietsub] 2.2 Trường phái Ý và vai trò lịch sử của nó"
+                    ]
+                },
+                {
+                    "title": "Chương 3: Khái quát các lý thuyết quy nguyên hành vi trong tâm lý học",
+                    "children": [
+                        "[Vietsub] 3.1 Tổng quan cách tiếp cận quy nguyên hành vi trong tâm lý học và lý thuyết phân tâm",
+                        "[Vietsub] 3.2 Lý thuyết đặc điểm nhân cách",
+                        "[Vietsub] 3.3 Tâm lý học hành vi",
+                        "[Vietsub] 3.4 Tâm lý học nhận thức"
+                    ]
+                },
+                {
+                    "title": "Chương 4: Lý thuyết học tập",
+                    "children": [
+                        "[Vietsub] 4.1 Lý thuyết học tập xã hội (Phần 1)",
+                        "[Vietsub] 4.2 Lý thuyết học tập xã hội (Phần 2)",
+                        "[Vietsub] 4.3 Lý thuyết tiếp xúc khác biệt (Phần 1)",
+                        "[Vietsub] 4.4 Lý thuyết tiếp xúc khác biệt (Phần 2)",
+                        "[Vietsub] 4.5 Giải thích và đánh giá lý thuyết tiếp xúc khác biệt",
+                        "[Vietsub] 4.6 Học tập hành vi vượt chuẩn và kỹ thuật trung hòa"
+                    ]
+                },
+                {
+                    "title": "Chương 5: Lý thuyết kiểm soát xã hội",
+                    "children": [
+                        "[Vietsub] 5.1 Sự chuyển biến cách mạng trong cách nhìn về nguyên nhân tội phạm",
+                        "[Vietsub] 5.2 Khái niệm kiểm soát và kiểm soát xã hội",
+                        "[Vietsub] 5.3 Lý thuyết tự kiểm soát",
+                        "[Vietsub] 5.4 Nội hàm tâm lý của tự kiểm soát"
+                    ]
+                },
+                {
+                    "title": "Chương 6: Nhân cách tội phạm",
+                    "children": [
+                        "[Vietsub] 6.1 Lý thuyết nhân cách tội phạm",
+                        "[Vietsub] 6.2 Lý thuyết bệnh lý tâm thần"
+                    ]
+                },
+                {
+                    "title": "Chương 7: Tổng kết học phần",
+                    "children": [
+                        "[Vietsub] 7. Tổng kết khóa học"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "toi-pham-hoc",
+            "title": "Tội Phạm Học",
+            "desc": "Đại học St. Petersburg (Saint Petersburg University)",
+            "tag": "Tội Phạm Học",
+            "image": "https://res.cloudinary.com/ds5lajume/image/upload/v1772869667/unnamed_1772869667.jpg",
+            "price": "449,000",
+            "benefits": [
+                "Tiếp cận toàn diện các học thuyết tội phạm học từ cổ điển đến hiện đại.",
+                "Phân tích nguyên nhân tội phạm dưới nhiều góc độ: sinh học, tâm lý, xã hội.",
+                "Nghiên cứu các phương pháp đo lường, phòng ngừa và xử lý tội phạm.",
+                "48 video bài giảng có Vietsub, truy cập vĩnh viễn."
+            ],
+            "target": "Chương trình \"Tội Phạm Học\" của Đại học St. Petersburg gồm 48 video bài giảng có Vietsub, bao quát 8 mô-đun chính:\n\nKhái luận — Khái niệm tội phạm dưới góc độ tội phạm học, hành vi lệch chuẩn và sự hoảng loạn đạo đức.\nTình hình tội phạm — Phương pháp đo lường, thống kê, tội phạm ẩn và khảo sát nạn nhân.\nLựa chọn lý trí — Trường phái cổ điển, học thuyết răn đe, phân tích kinh tế về tội phạm.\nYếu tố sinh học — Trường phái Lombroso, di truyền học, thần kinh học và tâm lý học tội phạm.\nGiải thích vĩ mô — Lý thuyết vô chuẩn, căng thẳng, giải thể xã hội và tiểu văn hóa.\nGiải thích vi mô — Học tập xã hội, liên kết xã hội, gắn nhãn và lý thuyết tổng quát.\nHọc thuyết phê phán — Tội phạm học Marxist, nữ quyền, xanh và kinh tế học hành vi.\nHình phạt và phòng ngừa — Thuyết hệ quả, thuyết báo ứng, giam giữ và phòng ngừa tình huống.\n\nHình thức học: Truy cập qua Google Drive, không giới hạn thời gian (vĩnh viễn).",
+            "syllabus": [
+                {
+                    "title": "Chương 1: Tội phạm học nghiên cứu nội dung gì? Khái niệm tội phạm dưới góc độ tội phạm học",
+                    "children": [
+                        "[Vietsub] 1.1 Tội phạm học là gì?",
+                        "[Vietsub] 1.2 Sự lệch chuẩn / Hành vi lệch chuẩn",
+                        "[Vietsub] 1.3 Tội phạm là gì?",
+                        "[Vietsub] 1.4 Tội phạm hóa",
+                        "[Vietsub] 1.5 Tội phạm với tư cách là một vấn đề xã hội",
+                        "[Vietsub] 1.6 Sự hoảng loạn đạo đức"
+                    ]
+                },
+                {
+                    "title": "Chương 2: Tình hình tội phạm",
+                    "children": [
+                        "[Vietsub] 2.1 Đo lường tội phạm (Phần 1)",
+                        "[Vietsub] 2.2 Đo lường tội phạm (Phần 2)",
+                        "[Vietsub] 2.3 Tội phạm ẩn",
+                        "[Vietsub] 2.4 Thống kê tội phạm",
+                        "[Vietsub] 2.5 Các cuộc khảo sát nạn nhân và nghiên cứu tự thú"
+                    ]
+                },
+                {
+                    "title": "Chương 3: Tại sao con người thực hiện tội phạm? Sự lựa chọn lý trí và các yếu tố hoàn cảnh",
+                    "children": [
+                        "[Vietsub] 3.1 Sự lật đổ các học thuyết Tội phạm học",
+                        "[Vietsub] 3.2 Trường phái Tội phạm học Cổ điển",
+                        "[Vietsub] 3.3 Học thuyết Răn đe",
+                        "[Vietsub] 3.4 Phân tích kinh tế về tội phạm và Học thuyết Lựa chọn lý trí",
+                        "[Vietsub] 3.5 Học thuyết Hoạt động thường nhật"
+                    ]
+                },
+                {
+                    "title": "Chương 4: Tại sao con người thực hiện tội phạm? Tiếng gọi của dòng máu (Các học thuyết sinh học)",
+                    "children": [
+                        "[Vietsub] 4.1 C. Lombroso: Con người phạm tội",
+                        "[Vietsub] 4.2 Những người theo trường phái Lombroso",
+                        "[Vietsub] 4.3 Thể trạng và Khuynh hướng phạm tội",
+                        "[Vietsub] 4.4 Các học thuyết di truyền về tội phạm (Phần 1)",
+                        "[Vietsub] 4.5 Các học thuyết di truyền về tội phạm (Phần 2)",
+                        "[Vietsub] 4.6 Cách giải thích tội phạm dưới góc độ thần kinh học",
+                        "[Vietsub] 4.7 Các yếu tố tâm lý của tội phạm"
+                    ]
+                },
+                {
+                    "title": "Chương 5: Tại sao con người thực hiện tội phạm? Các cách giải thích ở cấp độ vĩ mô",
+                    "children": [
+                        "[Vietsub] 5.1 Các cách giải thích xã hội học sơ khai",
+                        "[Vietsub] 5.2 E. Durkheim: Sự vô chuẩn và Tội phạm",
+                        "[Vietsub] 5.3 R. Merton: Cấu trúc xã hội và Sự vô chuẩn",
+                        "[Vietsub] 5.4 Các học thuyết về Sự căng thẳng",
+                        "[Vietsub] 5.5 Học thuyết Giải thể xã hội",
+                        "[Vietsub] 5.6 Các tiểu văn hóa tội phạm"
+                    ]
+                },
+                {
+                    "title": "Chương 6: Tại sao con người thực hiện tội phạm? Các cách giải thích ở cấp độ vi mô",
+                    "children": [
+                        "[Vietsub] 6.1 Học thuyết Tiếp xúc phân biệt",
+                        "[Vietsub] 6.2 Học thuyết Học tập xã hội",
+                        "[Vietsub] 6.3 Học thuyết Trung hòa",
+                        "[Vietsub] 6.4 Học thuyết Liên kết xã hội",
+                        "[Vietsub] 6.5 Học thuyết Tổng quát về Tội phạm",
+                        "[Vietsub] 6.6 Học thuyết Gắn nhãn"
+                    ]
+                },
+                {
+                    "title": "Chương 7: Các học thuyết phê phán và học thuyết tích hợp",
+                    "children": [
+                        "[Vietsub] 7.1 Karl Marx và Friedrich Engels: Tội phạm và Chủ nghĩa tư bản",
+                        "[Vietsub] 7.2 W. Bonger: Tội phạm và các điều kiện kinh tế",
+                        "[Vietsub] 7.3 Tội phạm học Xung đột, Cấp tiến và Xanh",
+                        "[Vietsub] 7.4 Tội phạm học Nữ quyền",
+                        "[Vietsub] 7.5 Tội phạm học Phát triển và Vòng đời",
+                        "[Vietsub] 7.6 Tội phạm học và Kinh tế học hành vi"
+                    ]
+                },
+                {
+                    "title": "Chương 8: Phân tích dưới góc độ tội phạm học về hình phạt và phòng ngừa tội phạm",
+                    "children": [
+                        "[Vietsub] 8.1 Mục đích của hình phạt — Thuyết hệ quả",
+                        "[Vietsub] 8.2 Mục đích của hình phạt — Thuyết báo ứng",
+                        "[Vietsub] 8.3 Xã hội học về hình phạt",
+                        "[Vietsub] 8.4 Hình phạt tù — Giam giữ",
+                        "[Vietsub] 8.5 Phòng ngừa tội phạm",
+                        "[Vietsub] 8.6 Phòng ngừa tội phạm theo tình huống"
                     ]
                 }
             ]
