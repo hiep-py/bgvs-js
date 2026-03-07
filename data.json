@@ -1,167 +1,182 @@
 {
     "courses": [
         {
-            "id": "luat-hinh-su",
-            "title": "Chuyên Đề Luật Hình Sự",
-            "desc": "Nghiên cứu cấu trúc tội phạm và các khía cạnh pháp lý trong hệ thống tư pháp hiện đại.",
-            "tag": "Luật Học",
+            "id": "khkt-hinh-su",
+            "title": "18 Chuyên Đề Khoa Học Kỹ Thuật Hình Sự",
+            "desc": "Trường Đại học Cảnh sát Điều tra Hình sự Trung Quốc (Criminal Investigation Police University of China)",
+            "tag": "Khoa Học Hình Sự",
             "image": "",
             "price": "3,990,000",
             "benefits": [
-                "Hệ thống hóa kiến thức về tội phạm học.",
-                "Phân tích thực tiễn áp dụng pháp luật.",
-                "Kỹ năng xây dựng lập luận pháp lý."
+                "Hệ thống hóa kiến thức về khoa học kỹ thuật hình sự.",
+                "Nắm vững kỹ thuật giám định dấu vết, tài liệu, hình ảnh và pháp y.",
+                "Phân tích thực tiễn từ các vụ án thực tế.",
+                "Kỹ năng thu thập và giám định vật chứng chuyên nghiệp."
             ],
-            "target": "Sinh viên luật và nhân sự pháp chế doanh nghiệp.",
+            "target": "Sinh viên ngành điều tra hình sự, cán bộ pháp y, nhân sự kỹ thuật hình sự và những ai quan tâm đến khoa học hình sự.",
             "syllabus": [
                 {
-                    "title": "Chương 1: Cơ sở lý luận về cấu trúc tội phạm",
+                    "title": "Chuyên đề 1: Lý luận cơ bản về Khoa học Kỹ thuật Hình sự",
                     "children": [
-                        {
-                            "title": "Chuyên đề 1: Nhận diện cấu trúc",
-                            "children": [
-                                "Bài 1: Khái niệm cấu trúc tội phạm",
-                                "Bài 2: Tính nguy hiểm cho xã hội",
-                                "Bài 3: Đặc điểm của hành vi phạm tội"
-                            ]
-                        },
-                        {
-                            "title": "Chuyên đề 2: Tính pháp lý của tội phạm",
-                            "children": [
-                                "Bài 1: Quy định trong luật hiện hành",
-                                "Bài 2: So sánh pháp luật quốc tế"
-                            ]
-                        }
+                        "[Video] 1.1 Khái quát về Kỹ thuật Hình sự",
+                        "[Video] 1.2 Nguyên lý Locard",
+                        "[Video] 1.3 Giám định chủng loại và Giám định đồng nhất"
                     ]
                 },
                 {
-                    "title": "Chương 2: Phân loại đối tượng và dấu hiệu đặc trưng",
+                    "title": "Chuyên đề 2: Giám định dấu tay (Vân tay)",
                     "children": [
-                        "Bài 1: Đối tượng tác động của tội phạm",
-                        "Bài 2: Các dấu hiệu chủ quan và khách quan",
-                        "Bài 3: Mặt chủ thể của tội phạm"
+                        "[Video] 2.1 Đặc tính của dấu tay",
+                        "[Video] 2.2 Cấu trúc và Đặc điểm của đường vân (Vân tuyến)",
+                        "[Video] 2.3 Các đặc điểm vết in hoa văn khác",
+                        "[Video] 2.4 Kỹ thuật phát hiện dấu tay ẩn bằng phương pháp xông hơi/hóa chất",
+                        "[Video] 2.5 Phân tích dấu tay"
                     ]
                 },
                 {
-                    "title": "Chương 3: Hệ thống pháp luật hình sự Việt Nam",
+                    "title": "Chuyên đề 3: Giám định dấu chân",
                     "children": [
-                        "Bài 1: Lịch sử hình thành",
-                        "Bài 2: Phân tích Bộ luật Hình sự 2015 (sửa đổi 2017)"
-                    ]
-                },
-                "Chương 4: Thực tiễn xét xử và án lệ"
-            ]
-        },
-        {
-            "id": "tam-ly-toi-pham",
-            "title": "Tâm Lý Học Tội Phạm",
-            "desc": "Khám phá động cơ và hành vi con người thông qua lăng kính khoa học tâm lý.",
-            "tag": "Tâm Lý",
-            "image": "",
-            "price": "4,500,000",
-            "benefits": [
-                "Hiểu về mô thức hành vi tội phạm.",
-                "Cơ sở khoa học của tâm lý học hành vi.",
-                "Phân tích hồ sơ tâm lý thực tế."
-            ],
-            "target": "Người đam mê tâm lý học và nghiên cứu khoa học hành vi.",
-            "syllabus": [
-                {
-                    "title": "Chương 1: Nền tảng tâm lý học hành vi",
-                    "children": [
-                        "Bài 1: Các trường phái tâm lý học",
-                        "Bài 2: Lý thuyết hành vi và nhận thức",
-                        "Bài 3: Cơ chế tâm lý dẫn đến hành vi lệch chuẩn"
+                        "[Video] 3.1 Đặc điểm hình dạng dấu chân",
+                        "[Video] 3.2 Đặc điểm bộ pháp",
+                        "[Video] 3.3 Thu thập dấu chân tại hiện trường"
                     ]
                 },
                 {
-                    "title": "Chương 2: Phân tích hồ sơ tâm lý",
+                    "title": "Chuyên đề 4: Giám định dấu vết công cụ gây án",
                     "children": [
-                        "Bài 1: Phương pháp lập hồ sơ tội phạm (Criminal Profiling)",
-                        "Bài 2: Nghiên cứu trường hợp thực tế"
+                        "[Video] 4.1 Hai loại dấu vết công cụ",
+                        "[Video] 4.2 Giám định dấu vết cạy, ép",
+                        "[Video] 4.3 Giám định dấu vết cắt, kẹp"
                     ]
                 },
                 {
-                    "title": "Chương 3: Tâm lý tội phạm theo nhóm",
+                    "title": "Chuyên đề 5: Giám định dấu vết súng đạn",
                     "children": [
-                        "Bài 1: Tâm lý đám đông và hành vi bầy đàn",
-                        "Bài 2: Tội phạm có tổ chức"
-                    ]
-                },
-                "Chương 4: Ứng dụng thực tiễn trong điều tra"
-            ]
-        },
-        {
-            "id": "ky-thuat-hinh-su",
-            "title": "Khoa Học Pháp Y",
-            "desc": "Kỹ thuật thu thập và phân tích chứng cứ khách quan trong điều tra.",
-            "tag": "Khoa Học",
-            "image": "",
-            "price": "4,990,000",
-            "benefits": [
-                "Quy trình xử lý vật chứng chuẩn mực.",
-                "Ứng dụng công nghệ trong giám định.",
-                "Phân tích dữ liệu số trong pháp y."
-            ],
-            "target": "Điều tra viên và chuyên viên kỹ thuật hình sự.",
-            "syllabus": [
-                "Chương 1: Tổng quan về giám định pháp y",
-                "Chương 2: Kỹ thuật thu thập và bảo quản chứng cứ",
-                "Chương 3: Phân tích DNA và sinh trắc học",
-                "Chương 4: Pháp y kỹ thuật số và điều tra mạng"
-            ]
-        },
-        {
-            "id": "tranh-tung",
-            "title": "Kỹ Năng Tranh Tụng",
-            "desc": "Phát triển tư duy phản biện và khả năng trình bày chuyên nghiệp.",
-            "tag": "Thực Hành",
-            "image": "",
-            "price": "5,500,000",
-            "benefits": [
-                "Kỹ thuật đặt câu hỏi và phản biện.",
-                "Quản lý cảm xúc trong tranh luận.",
-                "Tư duy logic trong trình bày."
-            ],
-            "target": "Những người cần cải thiện kỹ năng thuyết phục và tư duy logic.",
-            "syllabus": [
-                {
-                    "title": "Chương 1: Tư duy tranh luận pháp lý",
-                    "children": [
-                        "Bài 1: Nguyên tắc logic hình thức",
-                        "Bài 2: Xây dựng luận điểm và phản biện",
-                        "Bài 3: Nhận diện ngụy biện (Fallacy)"
+                        "[Video] 5.1 Súng và đạn",
+                        "[Video] 5.2 Dấu vết trên đầu đạn",
+                        "[Video] 5.3 Dấu vết trên vỏ đạn"
                     ]
                 },
                 {
-                    "title": "Chương 2: Kỹ thuật đặt câu hỏi",
+                    "title": "Chuyên đề 6: Giám định và định danh dấu vết tổng hợp",
                     "children": [
-                        "Bài 1: Câu hỏi mở và câu hỏi dẫn dắt",
-                        "Bài 2: Kỹ thuật thẩm vấn chéo (Cross-examination)"
+                        "[Video] 6.1 Giám định dấu vết thân thể",
+                        "[Video] 6.2 Giám định dấu vết công cụ"
                     ]
                 },
-                "Chương 3: Tâm lý học đám đông và thuyết phục",
-                "Chương 4: Thuyết trình và trình bày chuyên sâu"
-            ]
-        },
-        {
-            "id": "luat-dan-su-co-ban",
-            "title": "Pháp Luật Dân Sự Cơ Bản",
-            "desc": "Tìm hiểu về quyền sở hữu, hợp đồng và các quan hệ dân sự trong đời sống hàng ngày.",
-            "tag": "Luật Học",
-            "image": "",
-            "price": "3,990,000",
-            "benefits": [
-                "Kiến thức về quyền và nghĩa vụ dân sự.",
-                "Cách xác lập hợp đồng an toàn.",
-                "Giải quyết tranh chấp dân sự cơ bản."
-            ],
-            "target": "Mọi cá nhân muốn hiểu rõ quyền lợi của mình trong các giao dịch dân sự.",
-            "syllabus": [
-                "Chương 1: Quyền nhân thân và quyền tài sản",
-                "Chương 2: Hợp đồng dân sự — Xác lập và hiệu lực",
-                "Chương 3: Pháp luật về thừa kế",
-                "Chương 4: Trách nhiệm bồi thường thiệt hại ngoài hợp đồng"
+                {
+                    "title": "Chuyên đề 7: Giám định bút tích (Chữ viết)",
+                    "children": [
+                        "[Video] 7.1 Giám định tài liệu",
+                        "[Video] 7.2 Chữ viết và cơ chế hình thành chữ viết",
+                        "[Video] 7.3 Đặc điểm chung của chữ viết",
+                        "[Video] 7.4 Đặc điểm bố cục trình bày",
+                        "[Video] 7.5 Đặc điểm về cách viết",
+                        "[Video] 7.6 Đặc điểm về lỗi chính tả và sai sót văn bản",
+                        "[Video] 7.7 Đặc điểm về tỷ lệ kết cấu và vận động bút",
+                        "[Video] 7.8 Đặc điểm về thứ tự các nét"
+                    ]
+                },
+                {
+                    "title": "Chuyên đề 8: Giám định tài liệu in",
+                    "children": [
+                        "[Video] 8.1 Tổng quan về giám định tài liệu in",
+                        "[Video] 8.2 Nguyên lý máy photocopy tĩnh điện"
+                    ]
+                },
+                {
+                    "title": "Chuyên đề 9: Cơ sở giám định tư liệu âm thanh, hình ảnh",
+                    "children": [
+                        "[Video] 9.1 Khái quát về giám định tư liệu âm thanh, hình ảnh",
+                        "[Video] 9.2 Các yếu tố ảnh hưởng đến độ phơi sáng",
+                        "[Video] 9.3 Cách kiểm soát độ sâu trường ảnh",
+                        "[Video] 9.4 Sức hấp dẫn của ánh sáng"
+                    ]
+                },
+                {
+                    "title": "Chuyên đề 10: Nhiếp ảnh hiện trường",
+                    "children": [
+                        "[Video] 10.1 Khái quát về nhiếp ảnh hiện trường",
+                        "[Video] 10.2 Cách chụp ảnh hiện trường vụ án",
+                        "[Video] 10.3 Nhiếp ảnh chi tiết hiện trường"
+                    ]
+                },
+                {
+                    "title": "Chuyên đề 11: Nhiếp ảnh vật chứng",
+                    "children": [
+                        "[Video] 11.1 Khái quát về nhiếp ảnh giám định vật chứng",
+                        "[Video] 11.2 Nhiếp ảnh phân sắc",
+                        "[Video] 11.3 Nhiếp ảnh ánh sáng phân cực",
+                        "[Video] 11.4 Nhiếp ảnh tăng cường độ tương phản",
+                        "[Video] 11.5 Kỹ thuật nhiếp ảnh hồng ngoại",
+                        "[Video] 11.6 Kỹ thuật nhiếp ảnh tử ngoại"
+                    ]
+                },
+                {
+                    "title": "Chuyên đề 12: Phân tích vật chứng vi lượng",
+                    "children": [
+                        "[Video] 12.1 Tổng quan về phân tích vật chứng vi lượng",
+                        "[Video] 12.2 Tìm kiếm và thu thập vật chứng vi lượng tại hiện trường",
+                        "[Video] 12.3 Nội dung và phương pháp giám định vật chứng vi lượng",
+                        "[Video] 12.4 Thu mẫu và giám định vật chứng vi lượng trong vụ án hỏa hoạn",
+                        "[Video] 12.5 Thu mẫu và giám định vật chứng vi lượng trong vụ án súng đạn",
+                        "[Video] 12.6 Thu mẫu và giám định vật chứng vi lượng trong vụ án nổ",
+                        "[Video] 12.7 Thu mẫu và giám định vật chứng vi lượng trong tai nạn giao thông"
+                    ]
+                },
+                {
+                    "title": "Chuyên đề 13: Phân tích chất độc",
+                    "children": [
+                        "[Video] 13.1 Tổng quan về phân tích chất độc",
+                        "[Video] 13.2 Phân loại chất độc",
+                        "[Video] 13.3 Ngộ độc chất độc",
+                        "[Video] 13.4 Triệu chứng ngộ độc chất độc",
+                        "[Video] 13.5 Quá trình của chất độc trong cơ thể",
+                        "[Video] 13.6 Phát hiện, thu thập và bảo quản vật chứng chất độc",
+                        "[Video] 13.7 Nội dung cơ bản của giám định chất độc",
+                        "[Video] 13.8 Quy trình cơ bản của giám định chất độc"
+                    ]
+                },
+                {
+                    "title": "Chuyên đề 14: Phân tích ma túy",
+                    "children": [
+                        "[Video] 14.1 Tổng quan về phân tích ma túy",
+                        "[Video] 14.2 Quy định về lấy mẫu và bảo quản ma túy",
+                        "[Video] 14.3 Kiểm tra nhanh ma túy tại hiện trường",
+                        "[Video] 14.4 Yêu cầu lấy mẫu đối với người lạm dụng ma túy",
+                        "[Video] 14.5 Kiểm nghiệm ma túy và các chất chuyển hóa của chúng trong phòng thí nghiệm"
+                    ]
+                },
+                {
+                    "title": "Chuyên đề 15: Khái quát về Pháp y học",
+                    "children": [
+                        "[Video] 15.1 Đại cương Pháp y học"
+                    ]
+                },
+                {
+                    "title": "Chuyên đề 16: Các hiện tượng tử thi",
+                    "children": [
+                        "[Video] 16.1 Hiện tượng tử thi — Những thay đổi sau khi chết"
+                    ]
+                },
+                {
+                    "title": "Chuyên đề 17: Các dạng thương tích",
+                    "children": [
+                        "[Video] 17.1 Vết đâm — Tổn thương chí mạng do vật sắc nhọn",
+                        "[Video] 17.2 Rơi từ trên cao dẫn đến tử vong",
+                        "[Video] 17.3 Giám định pháp y đối với thi thể dưới nước",
+                        "[Video] 17.4 Giám định pháp y đối với thi thể trong đám cháy",
+                        "[Video] 17.5 Giám định pháp y tổn thương do điện giật"
+                    ]
+                },
+                {
+                    "title": "Chuyên đề 18: Giám định pháp y",
+                    "children": [
+                        "[Video] 18.1 Đột tử — Cái chết bất ngờ ngoài ý muốn",
+                        "[Video] 18.2 Suy đoán thời gian tử vong",
+                        "[Video] 18.3 Suy đoán vật gây thương tích"
+                    ]
+                }
             ]
         }
     ],
