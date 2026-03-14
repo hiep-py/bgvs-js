@@ -358,6 +358,268 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "luat-hinh-su-phan-chung",
+            "title": "Luật Hình Sự Phần Chung",
+            "desc": "Đại học Công nghệ Sơn Đông (Shandong University of Technology)",
+            "tag": "Luật Hình Sự",
+            "image": "https://i.ibb.co/214g91KX/Gemini-Generated-Image-1pz0d61pz0d61pz0.png",
+            "price": "749,000",
+            "benefits": [
+                "Hệ thống hóa kiến thức nền tảng về Luật Hình sự phần chung.",
+                "Nắm vững các nguyên tắc, cấu thành tội phạm và trách nhiệm hình sự.",
+                "Phân tích chuyên sâu về hệ thống hình phạt và chế độ thi hành án.",
+                "76 video bài giảng có Vietsub, truy cập vĩnh viễn."
+            ],
+            "target": "Chương trình \"Luật Hình sự Phần chung\" của Đại học Công nghệ Sơn Đông được giảng dạy trực quan qua 76 video 📹 (truy cập Drive vĩnh viễn), bao gồm các mô-đun chính:\n\n⚖️ Khái quát & nguyên tắc Luật Hình sự\n🔍 Thuyết cấu thành tội phạm\n🛡️ Các hành vi loại trừ tính chất tội phạm\n👥 Các giai đoạn tội phạm & đồng phạm\n⛓️ Trách nhiệm hình sự & hình phạt\n💡 Chương trình trang bị nền tảng kiến thức pháp lý vững chắc từ lý luận đến thực tiễn.",
+            "syllabus": [
+                {
+                    "title": "CHƯƠNG 1: NỘI DUNG KHÁI QUÁT VỀ LUẬT HÌNH SỰ",
+                    "children": [
+                        "[Vietsub] 1.1 Khái niệm và nguồn của Luật Hình sự",
+                        "[Vietsub] 1.2 Đặc điểm (Tính chất) của Luật Hình sự",
+                        "[Vietsub] 1.3 Mục đích, chức năng và nhiệm vụ của Luật Hình sự",
+                        "[Vietsub] 1.4 Hệ thống và giải thích Luật Hình sự"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG 2: CÁC NGUYÊN TẮC CƠ BẢN CỦA LUẬT HÌNH SỰ",
+                    "children": [
+                        "[Vietsub] 2.1 Tổng quan Các nguyên tắc cơ bản của Luật Hình sự",
+                        "[Vietsub] 2.2.1 Nguyên tắc Pháp chế hình sự (P1)",
+                        "[Vietsub] 2.2.2 Nguyên tắc Pháp chế hình sự (P2)",
+                        "[Vietsub] 2.3 Nguyên tắc Mọi người đều bình đẳng trước Luật Hình sự",
+                        "[Vietsub] 2.4 Nguyên tắc Tội - Trách nhiệm - Hình phạt tương xứng"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG 3: HIỆU LỰC CỦA LUẬT HÌNH SỰ",
+                    "children": [
+                        "[Vietsub] 3.1 Hiệu lực về không gian của Luật Hình sự",
+                        "[Vietsub] 3.2 Thẩm quyền tài phán theo lãnh thổ (Phần 1)",
+                        "[Vietsub] 3.3 Thẩm quyền tài phán theo lãnh thổ (Phần 2)",
+                        "[Vietsub] 3.4 Thẩm quyền tài phán theo quốc tịch của Luật Hình sự Trung Quốc",
+                        "[Vietsub] 3.5 Thẩm quyền tài phán bảo hộ của Luật Hình sự Trung Quốc",
+                        "[Vietsub] 3.6 Thẩm quyền tài phán phổ quát của Luật Hình sự Trung Quốc",
+                        "[Vietsub] 3.7 Vấn đề xung đột thẩm quyền tài phán",
+                        "[Vietsub] 3.8 Hiệu lực về thời gian của Luật Hình sự Trung Quốc"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG 4: HỌC THUYẾT BỐN YẾU TỐ CẤU THÀNH TỘI PHẠM",
+                    "children": [
+                        "[Vietsub] 4. Cấu thành tội phạm: Thuyết bốn yếu tố"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG 5: KHÁCH THỂ CỦA TỘI PHẠM",
+                    "children": [
+                        "[Vietsub] 5.1 Khái niệm và ý nghĩa của Khách thể",
+                        "[Vietsub] 5.2 Phân loại Khách thể",
+                        "[Vietsub] 5.3 Khách thể của tội phạm và Đối tượng tác động của tội phạm"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG 6: MẶT KHÁCH QUAN CỦA TỘI PHẠM",
+                    "children": [
+                        "[Vietsub] 6.1 Tổng quan về mặt khách quan của tội phạm",
+                        "[Vietsub] 6.2 Hành vi gây nguy hiểm cho xã hội",
+                        "[Vietsub] 6.3 Hành động và không hành động",
+                        "[Vietsub] 6.4 Hậu quả nguy hiểm",
+                        "[Vietsub] 6.5 Quan hệ nhân quả trong luật hình sự",
+                        "[Vietsub] 6.6 Xác định quan hệ nhân quả trong luật hình sự"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG 7: CHỦ THỂ CỦA TỘI PHẠM",
+                    "children": [
+                        "[Vietsub] 7.1 Tổng quan về chủ thể của tội phạm",
+                        "[Vietsub] 7.2.1 Chủ thể tội phạm là cá nhân (Phần 1)",
+                        "[Vietsub] 7.2.2 Chủ thể tội phạm là cá nhân (Phần 2)",
+                        "[Vietsub] 7.3 Chủ thể tội phạm là pháp nhân tổ chức"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG 8: MẶT CHỦ QUAN CỦA TỘI PHẠM",
+                    "children": [
+                        "[Vietsub] 8.1 Tổng quan về mặt chủ quan của tội phạm",
+                        "[Vietsub] 8.2 Lỗi cố ý phạm tội",
+                        "[Vietsub] 8.3 Lỗi vô ý phạm tội",
+                        "[Vietsub] 8.4 Sự kiện không có lỗi (Sự kiện bất ngờ)",
+                        "[Vietsub] 8.5 Mục đích phạm tội và động cơ phạm tội",
+                        "[Vietsub] 8.6.1 Sai lầm trong nhận thức về luật hình sự (Phần 1)",
+                        "[Vietsub] 8.6.2 Sai lầm trong nhận thức về luật hình sự (Phần 2)"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG 9: CÁC HÀNH VI LOẠI TRỪ TÍNH CHẤT TỘI PHẠM (HÀNH VI CHÍNH ĐÁNG)",
+                    "children": [
+                        "[Vietsub] 9.1 Tổng quan về hành vi chính đáng",
+                        "[Vietsub] 9.2 Phòng vệ chính đáng (Phần 1)",
+                        "[Vietsub] 9.3 Phòng vệ chính đáng (Phần 2)",
+                        "[Vietsub] 9.4 Tình thế cấp thiết"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG 10: CÁC GIAI ĐOẠN THỰC HIỆN TỘI PHẠM CỐ Ý",
+                    "children": [
+                        "[Vietsub] 10.1 Tổng quan về các hình thái dừng của tội phạm cố ý",
+                        "[Vietsub] 10.2 Tội phạm hoàn thành",
+                        "[Vietsub] 10.3 Chuẩn bị phạm tội",
+                        "[Vietsub] 10.4 Phạm tội chưa đạt",
+                        "[Vietsub] 10.5 Tự ý nửa chừng chấm dứt việc phạm tội"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG 11: ĐỒNG PHẠM",
+                    "children": [
+                        "[Vietsub] 11.1 Tổng quan về đồng phạm",
+                        "[Vietsub] 11.2 Điều kiện cấu thành đồng phạm",
+                        "[Vietsub] 11.3 Các hình thức đồng phạm",
+                        "[Vietsub] 11.4.1 Các loại người đồng phạm và trách nhiệm hình sự (Phần 1)",
+                        "[Vietsub] 11.4.2 Các loại người đồng phạm và trách nhiệm hình sự (Phần 2)"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG 12: LÝ LUẬN VỀ MỘT TỘI VÀ NHIỀU TỘI (TỘI SỐ)",
+                    "children": [
+                        "[Vietsub] 12.1 Các loại một tội",
+                        "[Vietsub] 12.2 Cạnh hợp tưởng tượng",
+                        "[Vietsub] 12.3 Tội phạm có hậu quả tăng nặng",
+                        "[Vietsub] 12.4 Một tội theo luật định",
+                        "[Vietsub] 12.5 Một tội theo phán quyết (Một tội trong xét xử)",
+                        "[Vietsub] 12.6 Tội phạm khiên liên",
+                        "[Vietsub] 12.7 Tội phạm thu hút"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG 13: TRÁCH NHIỆM HÌNH SỰ",
+                    "children": [
+                        "[Vietsub] 13.1 Tổng quan về trách nhiệm hình sự",
+                        "[Vietsub] 13.2 Nội dung của trách nhiệm hình sự"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG 14: HÌNH PHẠT",
+                    "children": [
+                        "[Vietsub] 14.1 Tổng quan về hình phạt",
+                        "[Vietsub] 14.2 Các loại hình phạt (Phần 1)",
+                        "[Vietsub] 14.3 Các loại hình phạt (Phần 2)",
+                        "[Vietsub] 14.4 Các biện pháp xử lý phi hình phạt"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG 15: HỆ THỐNG VÀ CHẾ ĐỘ HÌNH PHẠT",
+                    "children": [
+                        "[Vietsub] 15.1 Tổng quan về lượng hình / quyết định hình phạt",
+                        "[Vietsub] 15.2 Tái phạm / Tái phạm nguy hiểm",
+                        "[Vietsub] 15.3 Tự thú",
+                        "[Vietsub] 15.4 Lập công",
+                        "[Vietsub] 15.5 Tổng hợp hình phạt đối với nhiều tội",
+                        "[Vietsub] 15.6 Án treo",
+                        "[Vietsub] 15.7 Tổng quan về thi hành hình phạt (thi hành án)",
+                        "[Vietsub] 15.8 Giảm thời hạn chấp hành hình phạt (Giảm án)",
+                        "[Vietsub] 15.9 Tha tù trước thời hạn có điều kiện",
+                        "[Vietsub] 15.10 Cải tạo tại cộng đồng",
+                        "[Vietsub] 15.11 Chế độ chấm dứt hình phạt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ly-luan-chung-luat-dan-su",
+            "title": "Lý Luận Chung Về Luật Dân Sự",
+            "desc": "Đại học Thương mại Thiên Tân (Tianjin College of Commerce)",
+            "tag": "Luật Dân Sự",
+            "image": "https://i.ibb.co/nM3L1sH4/Gemini-Generated-Image-gd19aegd19aegd19.png",
+            "price": "199,000",
+            "benefits": [
+                "Hệ thống hóa kiến thức nền tảng về Luật Dân sự.",
+                "Nắm vững các nguyên tắc cơ bản, quyền và nghĩa vụ dân sự.",
+                "Phân tích chuyên sâu về hành vi pháp lý, đại diện và trách nhiệm dân sự.",
+                "37 video bài giảng có Vietsub, truy cập vĩnh viễn."
+            ],
+            "target": "Chương trình đào tạo \"Lý Luận Chung Về Luật Dân Sự\" của Đại học Thương mại Thiên Tân được giảng dạy trực quan qua 37 video Vietsub toàn bộ, bao gồm các chủ điểm:\n\n⚖️ Khái quát và nguyên tắc cơ bản.\n👤 Tự nhiên nhân, quyền và nghĩa vụ.\n📝 Hành vi pháp lý và chế định đại diện.\n⏳ Thời hiệu khởi kiện và trách nhiệm dân sự.\n💡 Khóa học trang bị nền tảng pháp lý dân sự toàn diện.",
+            "syllabus": [
+                {
+                    "title": "CHƯƠNG I - KHÁI QUÁT VỀ LUẬT DÂN SỰ",
+                    "children": [
+                        "[Vietsub] 1.1 Luật Dân sự là gì",
+                        "[Vietsub] 1.2 Đối tượng điều chỉnh của luật dân sự",
+                        "[Vietsub] 1.3 Mối quan hệ cơ bản giữa Luật Dân sự và Luật Thương mại"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG II - CÁC NGUYÊN TẮC CƠ BẢN CỦA LUẬT DÂN SỰ",
+                    "children": [
+                        "[Vietsub] 2.1 Tổng quan",
+                        "[Vietsub] 2.2 Nguyên tắc bình đẳng",
+                        "[Vietsub] 2.3 Nguyên tắc tự định đoạt",
+                        "[Vietsub] 2.4 Nguyên tắc công bằng",
+                        "[Vietsub] 2.5 Nguyên tắc thiện chí, trung thực",
+                        "[Vietsub] 2.6 Nguyên tắc trật tự công cộng, thuần phong mỹ tục và cấm lạm dụng quyền"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG III - QUYỀN CÔNG DÂN, NGHĨA VỤ DÂN SỰ VÀ TRÁCH NHIỆM DÂN SỰ",
+                    "children": [
+                        "[Vietsub] 3 Khái niệm quyền dân sự"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG IV - TỰ NHIÊN NHÂN",
+                    "children": [
+                        "[Vietsub] 4.1 Thể nhân",
+                        "[Vietsub] 4.2 Năng lực pháp luật dân sự",
+                        "[Vietsub] 4.3 Năng lực hành vi dân sự",
+                        "[Vietsub] 4.4 Chế định giám hộ",
+                        "[Vietsub] 4.5 Chế định tuyên bố mất tích",
+                        "[Vietsub] 4.6 Chế định tuyên bố chết"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG V - HÀNH VI PHÁP LÝ",
+                    "children": [
+                        "[Vietsub] 5.1 Tổng quan về hành vi pháp lý",
+                        "[Vietsub] 5.2 Thể hiện ý chí",
+                        "[Vietsub] 5.3 Thể hiện ý chí không thống nhất",
+                        "[Vietsub] 5.4 Thể hiện ý chí không tự nguyện",
+                        "[Vietsub] 5.5 Sự xác lập và hiệu lực của hành vi pháp lý dân sự",
+                        "[Vietsub] 5.6 Hành vi pháp lý dân sự thiếu các điều kiện có hiệu lực",
+                        "[Vietsub] 5.7 Hành vi pháp lý dân sự có điều kiện và thời hạn"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG VI - ĐẠI DIỆN",
+                    "children": [
+                        "[Vietsub] 6 Nội hàm của đại diện"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG VII - THỜI HIỆU KHỞI KIỆN",
+                    "children": [
+                        "[Vietsub] 7.1 Khái niệm thời hiệu khởi kiện",
+                        "[Vietsub] 7.2 Phạm vi thời hiệu khởi kiện",
+                        "[Vietsub] 7.3 Hiệu lực của thời hiệu khởi kiện",
+                        "[Vietsub] 7.4 Bắt đầu và tạm đình chỉ thời hiệu khởi kiện",
+                        "[Vietsub] 7.5. Gián đoạn thời hiệu khởi kiện"
+                    ]
+                },
+                {
+                    "title": "CHƯƠNG VIII - TRÁCH NHIỆM DÂN SỰ",
+                    "children": [
+                        "[Vietsub] 8.1 Tổng quan về Luật trách nhiệm bồi thường thiệt hại ngoài hợp đồng",
+                        "[Vietsub] 8.2 Lịch sử của Luật trách nhiệm bồi thường thiệt hại ngoài hợp đồng",
+                        "[Vietsub] 8.3 Giá trị và chức năng của Luật trách nhiệm bồi thường thiệt hại ngoài hợp đồng",
+                        "[Vietsub] 8.4 Mối quan hệ giữa trách nhiệm bồi thường thiệt hại ngoài hợp đồng và các loại trách nhiệm khác",
+                        "[Vietsub] 8.5 Tổng quan về phạm vi bảo vệ của Luật trách nhiệm bồi thường thiệt hại ngoài hợp đồng",
+                        "[Vietsub] 8.6 Hành vi gây thiệt hại ngoài hợp đồng (Tort)",
+                        "[Vietsub] 8.7 Các nguyên tắc quy kết trách nhiệm",
+                        "[Vietsub] 8.8 Trách nhiệm công bằng"
+                    ]
+                }
+            ]
         }
     ],
     "faq": [
